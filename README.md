@@ -1,6 +1,6 @@
 # Investigate-a-dataset
 
-Using Python packages such as Pandas, NumPy and Matplotlib to investigate a dataset
+Using Python libraries such as Pandas, NumPy and Matplotlib to investigate (wrangle, explore, draw conclusions and communicate) a dataset
 
 ## Overview
 
